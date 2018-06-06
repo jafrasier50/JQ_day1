@@ -1,0 +1,19 @@
+#page_container{
+    margin: auto;
+    display: flex;
+
+}
+
+.movies_wrapper{
+    margin: .5rem;
+    padding: .5rem;
+    border: .2rem solid lightgreen;
+    
+
+}
+
+.movies_watched_wrapper{
+    margin: .5rem;
+    padding: .5rem;
+    border: .2rem solid lightblue;
+}
